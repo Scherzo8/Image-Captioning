@@ -47,6 +47,7 @@ This application is a powerful and user-friendly tool designed to generate capti
     ```
 
 3. **Log in to Hugging Face:**  
+    
     You need to have a Hugging Face account and generate an access token.
 
     ```bash
